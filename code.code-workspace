@@ -1,0 +1,10 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "python.pythonPath": "/home/webdev/dev2/ecom/bin/python3.7"
+  }
+}
